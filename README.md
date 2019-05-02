@@ -1,0 +1,2 @@
+# MyFirstApp 
+# Django + firebase uses
