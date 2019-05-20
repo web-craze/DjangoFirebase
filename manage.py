@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # manage.py : main start point
+# Firstly, routing manage.py
 import os
 import sys
+
 
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'DjangoFirebaseProject.settings')
