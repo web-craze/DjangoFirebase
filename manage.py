@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # manage.py : main start point
-# Firstly, routing manage.py
+# Firstly, routing manage.py with python
 import os
 import sys
 
