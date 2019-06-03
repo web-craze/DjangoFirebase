@@ -2,4 +2,4 @@
 # Django + firebase uses
 # python language
 # portfolio site
-# a month ago
+# Django sample project
